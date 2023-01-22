@@ -1,5 +1,5 @@
 # Modern UI/UX GPT-3
-Live Site ()
+Live Site (https://kwamasali-gpt-3.netlify.app)
 Link to the figma design file (https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3?node-id=0%3A15&t=eaTBYobHcwyFwEyt-0)
 
 ## Introduction
