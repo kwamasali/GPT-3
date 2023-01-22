@@ -13,5 +13,5 @@ CSS flex and grid properties
 React file and folder structure
 Use of soft animations and complex gradients, and use of media queries for responsive design on various devices. 
 
-This is a website built from a video tutorial by JS Mastery linked "https://jsmastery.pro/youtube" with a personal touch.# GPT-3
+This is a website built from a video tutorial by JS Mastery linked "https://jsmastery.pro/youtube" with a personal touch.
 # GPT-3
